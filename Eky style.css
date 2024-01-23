@@ -1,0 +1,18 @@
+body {
+}
+.jumbotron {
+  padding-top: 3rem;
+  background-color: #e2edff;
+}
+
+#About {
+  padding-top: 5rem;
+}
+
+#PROJECTS {
+  padding-top: 5rem;
+}
+
+#CONTACT {
+  padding-top: 5rem;
+}
